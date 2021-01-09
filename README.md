@@ -1,3 +1,4 @@
 # Water-Jug-Problem
 Water Jug Problem In C 
-Using DFS 
+Using DFS.
+I do not own this code.
